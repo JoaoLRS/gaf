@@ -1,4 +1,4 @@
-package main.java.com.gaf.gerenciador_faturas.model;
+package com.gaf.gerenciador_faturas.model;
 import jakarta.persistence.*;
 import java.math.BigDecimal;
 import java.time.LocalDate;
